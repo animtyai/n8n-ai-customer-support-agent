@@ -20,4 +20,16 @@ An AI-powered Telegram customer support agent built with n8n, Google Gemini, con
 
 ## Project Status
 
+## Screenshots
+
+### Complete Workflow
+
+![Complete n8n workflow](complete-workflow.png)
+
+### Normal Customer Response
+
+![Normal Telegram response](normal-response.png)
+
+
+
 Day 1 of my 12 Days of AI Agents challenge.
